@@ -6,6 +6,8 @@
 			"label": "C/C++: g++.exe build active file",
 			"command": "C:\\Program Files\\TDM-GCC\\bin\\g++.exe",
 			"args": [
+				"--std",
+				"c++23",
 				"-fdiagnostics-color=always",
 				"-g",
 				"-pedantic-errors",
