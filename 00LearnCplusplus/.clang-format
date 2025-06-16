@@ -1,8 +1,0 @@
-# .clang-format
-# Google Style
-# https://google.github.io/styleguide/cppguide.html#Coding_Style
-BasedOnStyle: Google
-IndentWidth: 4
-TabWidth: 4
-UseTab: Never
-ColumnLimit: 80
